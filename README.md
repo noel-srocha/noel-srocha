@@ -56,8 +56,7 @@
 ## GitHub Stats
 
 <br>
-<div>
-  <a href="https://github.com/mayusatori">
+<div style="display: inline_block">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayusatori&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayusatori&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 </div>
 
