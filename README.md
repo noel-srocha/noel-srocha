@@ -67,4 +67,4 @@
 </td></tr>
 </table>
 
-![Snake animation](https://github.com/mayusatoi/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/mayusatori/mayusatori/blob/output/github-contribution-grid-snake.svg)
