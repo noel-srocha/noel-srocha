@@ -1,13 +1,15 @@
 ## Hey, I am Mayu
 
-![Gmail Badge](https://img.shields.io/badge/satorimayu@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![Gmail Badge](https://img.shields.io/badge/satorimayu@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satorimayu@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/mayusatori-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayusatori/)
 
 <br>
 
 ## About me
 
-Criando o texto
+<div align="justfy">
+  Criando o texto
+</div>
 
 <br>
 
