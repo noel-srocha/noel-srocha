@@ -1,15 +1,15 @@
 ## Hey, I am Mayu
 
-[![Gmail Badge](https://img.shields.io/badge/satorimayu@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satorimayu@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/mayusatori-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayusatori/)
-
-<br>
-
-## About me
-
 <div align="justfy">
   Criando o texto
 </div>
+
+<br>
+
+## Contact
+
+[![Gmail Badge](https://img.shields.io/badge/satorimayu@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satorimayu@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/mayusatori-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayusatori/)
 
 <br>
 
@@ -55,16 +55,11 @@
 
 ## GitHub Stats
 
-<table>
-<tr><td>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayusatori&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
-
-</td><td>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayusatori&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</td></tr>
-</table>
+<br>
+<div>
+  <a href="https://github.com/mayusatori">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayusatori&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayusatori&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+</div>
 
 ![Snake animation](https://github.com/mayusatori/mayusatori/blob/output/github-contribution-grid-snake.svg)
