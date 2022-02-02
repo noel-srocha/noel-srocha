@@ -1,7 +1,21 @@
 ## Hey, I am Mayu
 
 <div align="justfy">
-  Criando o texto
+
+  I'm Brazilian, I identify with the female gender, I'm 24 years old and I'm passionate about programming
+
+  It all started in college where I had my first contact with c++ and java, and some time later I started a web development course at Trybe, one of the biggest programming schools in latin america
+
+  I definitely love working as a team ! collaborating, asking for help, giving help and doing codereviewing is an enriching experience that gives me new insights into coding. The pair programming dynamic is my favorite, I feel like I'm having fun while I'm coding! Another important thing about me is that I am constantly studying more, learning more, because I feel that this develops me not only as a professional but also as a person.
+
+  my favorite hobbies are:
+
+- play
+- watch series
+- trekking in mountains and forests
+- travel
+- meet new people and different cultures
+
 </div>
 
 <br>
