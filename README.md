@@ -2,7 +2,7 @@
 
 <div align="justfy">
 
-  I'm Brazilian, I identify with the female gender, I'm 24 years old and I'm passionate about programming
+  I'm Brazilian, I identify myself with the female gender, I'm 24 years old and I'm passionate about programming
 
   It all started in college where I had my first contact with c++ and java, and some time later I started a web development course at Trybe, one of the biggest programming schools in latin america
 
