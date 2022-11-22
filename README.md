@@ -21,7 +21,7 @@
   <h4>𝙂𝙖𝙢𝙚𝙨 𝙄'𝙢 𝙥𝙡𝙖𝙮𝙞𝙣𝙜</h4>
   
   <ul>
-    <li>Mass Effect Legendary Edition<li>
+    <li>Guild Wars 2<li>
   </ul>
 
 </div>
