@@ -30,7 +30,7 @@
 
 ## 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚 𝙬𝙞𝙩𝙝 𝙩𝙝𝙚𝙨𝙚
 
-[![Gmail Badge](https://img.shields.io/badge/manoelrocha.n93@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manoelrocha.n93@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/manoelrocha.n93@outlook.com-D14836?style=for-the-badge&logo=outlook&logoColor=white)](mailto:manoelrocha.n93@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/manoel_de_souza_rocha_neto-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devmanoelrochaneto/)
 [![Steam_Badge](https://img.shields.io/badge/mr_shelby-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/mrshelby257/)
 
@@ -44,7 +44,6 @@
 
 <img alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
 <img alt="nuxt" src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
-<img alt="vite" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
 <img alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 <img alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
@@ -58,7 +57,7 @@
 <img alt="js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-
+<img alt="python" src="https://img.shields.io/badge/Python-239120?style=for-the-badge&logo=python&logoColor=white" />
 
 </div><br>
 
@@ -117,11 +116,6 @@
     <h4>𝙂𝙖𝙢𝙚 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩</h4>
     <img alt="unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
   </div>
-  
-  <div>
-    <h4>𝙑𝙞𝙙𝙚𝙤 𝙀𝙙𝙞𝙩𝙞𝙣𝙜</h4>
-    <img alt="blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
-  </div>
 
 </div><br>
 
@@ -134,26 +128,3 @@
 <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 
 </div><br>
-
-## 𝙈𝙮 𝙂𝙞𝙩𝙃𝙪𝙗 𝙎𝙩𝙖𝙩𝙨
-
-<br>
-
-<table>
-<tr><td>
-
-  <a href="https://github.com/noel-srocha/github-readme-stats" rel="noopener noreferrer" target="_blank">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=noel-srocha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  </a>
-
-</td><td>
-
-  <a href="https://github.com/noel-srocha/github-readme-stats" rel="noopener noreferrer" target="_blank" target="_blank">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noel-srocha&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-  </a>
-
-</td></tr>
-</table>
-
-
-![Snake animation](https://github.com/noel-srocha/noel-srocha/blob/output/github-contribution-grid-snake.svg)
