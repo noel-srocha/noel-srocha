@@ -2,7 +2,7 @@
 
 <div align="justfy">
 
-  I'm a 29-years-old Brazilian who loves coding, learning new things about life and technologies, ah and also about astronomy! I practice programming everyday and right now, I'm quite in love with Vue.js 3 and Nuxt.js!
+  I'm a 30-years-old Brazilian who loves coding, learning new things about life and technologies, ah and also about astronomy! I practice programming everyday and right now, I'm quite in love with Vue.js 3 and Nuxt.js!
 
   Currently, I work as a Systems Analyst and I'm having quite a lot of fun, because the environment I'm in allows me to Research & Develop as much as I please. This is also where I'm gaining experience with C# and .NET Core for building modern web applications.
 
@@ -80,7 +80,6 @@
   <div>
     <h4>𝘿𝙚𝙨𝙞𝙜𝙣 𝙏𝙤𝙤𝙡𝙨</h4>
     <img alt="gimp" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" />
-    <img alt="blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
     <img alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
     <img alt="adobexd" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />
   </div>
