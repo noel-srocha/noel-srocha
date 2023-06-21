@@ -2,7 +2,7 @@
 
 <div align="justfy">
 
-  I'm a 30-years-old Brazilian who loves coding, learning new things about life and technologies, ah and also about astronomy! I practice programming everyday and right now, I'm quite in love with Vue.js 3 and Nuxt.js!
+  I'm a 30-years-old Brazilian who loves coding, learning new things about life and technologies, ah and also about astronomy! I practice programming everyday and right now, I'm quite in love with Dart and Flutter!
 
   Currently, I work as a Systems Analyst and I'm having quite a lot of fun, because the environment I'm in allows me to Research & Develop as much as I please. This is also where I'm gaining experience with C# and .NET Core for building modern web applications.
 
