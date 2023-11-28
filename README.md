@@ -2,9 +2,9 @@
 
 <div align="justfy">
 
-  I'm a 30-years-old Brazilian who loves coding, learning new things about life and technologies, ah and also about astronomy! I practice programming everyday and right now, I'm quite in love with Dart and Flutter!
+  I'm a 30-years-old Brazilian who loves coding, learning new things about life and technologies, ah and also about astronomy! I practice programming everyday and right now, I'm quite in love with Dart, Flutter and Kotlin!
 
-  Currently, I work as a Systems Analyst and I'm having quite a lot of fun, because the environment I'm in allows me to Research & Develop as much as I please. This is also where I'm gaining experience with C# and .NET Core for building modern web applications.
+  Currently, I work as a Systems Analyst and I'm having quite a lot of fun learning Kotlin and Android Native and Multiplatform development. Right now, I'm putting all my effort into becoming a Kotlin specialist.
 
   And in case you're wondering... Yep, I'm a fan of Peaky Blinders! haha
 
