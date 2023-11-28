@@ -21,7 +21,7 @@
   <h4>𝙂𝙖𝙢𝙚𝙨 𝙄'𝙢 𝙥𝙡𝙖𝙮𝙞𝙣𝙜</h4>
   
   <ul>
-    <li>Guild Wars 2<li>
+    <li>30XX<li>
   </ul>
 
 </div>
@@ -30,8 +30,8 @@
 
 ## 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚 𝙬𝙞𝙩𝙝 𝙩𝙝𝙚𝙨𝙚
 
-[![Gmail Badge](https://img.shields.io/badge/manoelrocha.n93@outlook.com-D14836?style=for-the-badge&logo=outlook&logoColor=white)](mailto:manoelrocha.n93@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/manoel_de_souza_rocha_neto-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devmanoelrochaneto/)
+[![Gmail Badge](https://img.shields.io/badge/noel.srocha93@gmail.com-D14836?style=for-the-badge&logo=outlook&logoColor=white)](mailto:noel.srocha93@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/manoel_de_souza_rocha_neto-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelsrocha93/)
 [![Steam_Badge](https://img.shields.io/badge/mr_shelby-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/mrshelby257/)
 
 <br>
