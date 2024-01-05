@@ -1,28 +1,22 @@
 ## Hello! My name is Manoel!
 
-<div align="justfy">
+<div align="justify">
 
-  I'm a 30-years-old Brazilian who loves coding, learning new things about life and technologies, ah and also about astronomy! I practice programming everyday and right now, I'm quite in love with Dart, Flutter and Kotlin!
+  Hello and welcome to my profile! You'll mostly find me studying how to be a better Kotlin Developer. Right now, I'm focusing on learning about Jetpack Compose, Kotlin Multiplatform, SOLID, Clean Code and Architecture to aid me in providing the best experience to my clients.
 
-  Currently, I work as a Systems Analyst and I'm having quite a lot of fun learning Kotlin and Android Native and Multiplatform development. Right now, I'm putting all my effort into becoming a Kotlin specialist.
+<h4>What I'm working on right now:</h4>
+<ul>
+  <li>Android Jetpack Compose projects</li>
+  <li>Kotlin/Java Backend solutions</li>
+</ul>
 
-  And in case you're wondering... Yep, I'm a fan of Peaky Blinders! haha
-
-  <h4>𝙃𝙚𝙧𝙚 𝙖𝙧𝙚 𝙨𝙤𝙢𝙚 𝙤𝙛 𝙢𝙮 𝙝𝙤𝙗𝙗𝙞𝙚𝙨!</h4>
-
-  <ul>
-    <li>Study and Research</li>
-    <li>Reading some literature</li>
-    <li>Stargazing</li>
-    <li>Work out</li>
-    <li>Practice Self Defense</li>
-  </ul>
-  
-  <h4>𝙂𝙖𝙢𝙚𝙨 𝙄'𝙢 𝙥𝙡𝙖𝙮𝙞𝙣𝙜</h4>
-  
-  <ul>
-    <li>30XX<li>
-  </ul>
+<h4>These are what I'm studying right now:</h4>
+<ul>
+  <li>Clean Code</li>
+  <li>Clean Architecture</li>
+  <li>SOLID principles</li>
+  <li>Design Patterns</li>
+</ul>
 
 </div>
 
