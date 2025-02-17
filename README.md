@@ -76,10 +76,6 @@ I'm constantly learning and staying up-to-date with the latest developments in:
 [![Gmail Badge](https://img.shields.io/badge/noel.srocha93@gmail.com-D14836?style=for-the-badge&logo=outlook&logoColor=white)](mailto:noel.srocha93@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/manoel_de_souza_rocha_neto-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelsrocha93/)
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=noel-srocha&show_icons=true&theme=radical)
-
 ## 🤝 Open to Collaboration
 
 I'm always interested in collaborating on exciting projects, especially those involving:
