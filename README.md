@@ -6,16 +6,15 @@ I'm a Fullstack Software Engineer with 3+ years of experience specializing in Fl
 
 ### Frontend
 - **Flutter/Dart** - Building cross-platform mobile applications
+- **Jetpack Compose/Android** - Building native experiences
 - Mobile app development
-- State management (Provider, Bloc, etc.)
 - UI/UX implementation
 - Responsive design
 
 ### Backend
-- **.NET Core/C#** - Developing robust backend solutions
+- **Spring Boot/Java/Kotlin** - Developing robust backend solutions
 - RESTful API design and implementation
 - Database design and optimization
-- Entity Framework Core
 
 ## 💡 Core Competencies
 
@@ -42,12 +41,12 @@ mindmap
       Material Design
       Responsive UI
     Backend
-      .NET Core
-      C#
-      Entity Framework
+      Spring Boot
+      Java
+      Kotlin
       REST APIs
     Database
-      SQL Server
+      MySQL
       PostgreSQL
       SQLite
     DevOps
@@ -58,7 +57,7 @@ mindmap
 
 ## 🌟 Key Achievements
 
-- Developed and maintained scalable fullstack applications using Flutter and .NET
+- Developed and maintained scalable applications using Flutter and Spring
 - Implemented clean architecture patterns resulting in more maintainable and testable code
 - Strong focus on writing clean, efficient, and well-documented code
 - Experience with the complete software development lifecycle
